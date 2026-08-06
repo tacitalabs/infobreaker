@@ -1,7 +1,12 @@
 # Infobreaker
 
-Private beta release artifacts and checksums.
+Infobreaker is a local-first data broker removal app for macOS and Windows.
+This repository contains release artifacts and SHA-256 checksums for the
+public beta.
 
-Infobreaker source is not published during private beta. Public source
-publication is planned after the private-beta safety gates, but no open-source
-license is granted for these artifacts at this stage.
+The application source code is not currently published. No open-source license
+is granted for the binaries or other release artifacts in this repository.
+
+- [Project website](https://www.tacitalabs.com/infobreaker.html)
+- [Privacy notes](https://www.tacitalabs.com/infobreaker-privacy.html)
+- [Beta guide](https://www.tacitalabs.com/infobreaker-beta-testers.html)
